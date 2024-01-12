@@ -24,6 +24,13 @@
 <img height= "20"src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
 <img height= "20"src= "https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"> -->
 
+
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
 - Thanks for visiting.
 - Enjoy it!! o/
 
