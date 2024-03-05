@@ -2,7 +2,7 @@
 
 :computer: I'm Front-End Developer, Hacking and Cyber Security Enthusiast!
 
-:house_with_garden: I’m from Brazil, Manauaus-AM.
+:house_with_garden: I’m from Brazil, Manaus-AM.
 
 :books: I’m currently learning everything.
 
