@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/evaldocardoso-dev/">
+  <a href="https://www.linkedin.com/in/evaldo-cardoso-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://evaldoes.github.io/">
